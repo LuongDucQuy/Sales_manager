@@ -1,0 +1,4 @@
+0002,Kem danh rang,Viet Nam,Vang,30000,23/2/2023,95
+0003,Dao cao rau,Thai Lan,Vang,10000,20/8/2021,30
+0005,Sua rua mat,Viet Nam,Trang,50000,20/5/2023,35
+0006,giay,vn,trang,5000,16,12
